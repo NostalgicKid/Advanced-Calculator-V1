@@ -1,5 +1,3 @@
-# Advanced_Calculator_Version_N_one
-
 def calc_multiplication(x, y):
     return x * y
 
